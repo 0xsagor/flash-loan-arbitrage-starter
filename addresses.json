@@ -1,0 +1,11 @@
+{
+  "mainnet": {
+    "PoolAddressesProvider": "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e"
+  },
+  "sepolia": {
+    "PoolAddressesProvider": "0x012b6a31c0cC396Ac167B27E583179Ef91f0C4B4"
+  },
+  "polygon": {
+    "PoolAddressesProvider": "0xa97684ead0e4511901a59032747d5ed090300d0c"
+  }
+}
